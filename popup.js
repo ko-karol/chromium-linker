@@ -1,3 +1,4 @@
+//link test: https://github.com/ko-karol, github.com/ko-karol/
 // Auto Linkify Popup Script
 document.addEventListener('DOMContentLoaded', function() {
     const toggleSwitch = document.getElementById('toggleSwitch');
